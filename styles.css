@@ -1,0 +1,50 @@
+h1
+{
+   font-size: 40px;
+   background-color:black;
+   color:lightblue;
+}
+
+.Skills
+{
+   width: 60%;
+   text-align: center;
+   
+
+}
+
+img 
+{
+    
+    width: 500px;
+    height: 500px;
+}
+
+p
+{
+    background-color: green;
+    color:yellow;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration:underline 
+    
+}
+
+p2
+{
+    background-color: red;
+    color:yellow;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline
+}
+
+p3
+{
+    background-color: brown;
+    color: yellow;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration:underline
+
+}
